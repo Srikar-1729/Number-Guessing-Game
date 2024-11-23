@@ -8,5 +8,25 @@ To play the game follow the below steps:
 ### 1. Clone the Repository
 1. Open a terminal or command prompt.
 2. Navigate to the directory where you want to save the project:
-   ```bash
+
+   ```bash 
    cd /path/to/your/directory
+   ```
+3. Clone the repository:
+
+    ```bash
+   git clone https://github.com/Srikar-1729/Number-Guessing-Game
+   ```
+4. Navigate to the project folder:
+
+   ```bash
+   cd Number-Guessing-Game
+    ```
+
+5. Compile and Run the java file
+
+    ```bash
+    javac NumberGuess.java
+    java NumberGuess
+    ```
+
