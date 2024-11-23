@@ -1,0 +1,13 @@
+# Compiled class files
+*.class
+
+# IDE settings
+/.idea/
+/*.iml
+*.vscode/
+
+# Logs
+*.log
+
+# Generated files
+/out/
