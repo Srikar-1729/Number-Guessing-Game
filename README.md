@@ -3,4 +3,10 @@ This is a Command Line based number guessing game where you guess a number in th
 This is done as part of:
 https://roadmap.sh/projects/number-guessing-game
 
-To play the game clone the repo and run the NumberGuess.java file.
+To play the game follow the below steps:
+
+### 1. Clone the Repository
+1. Open a terminal or command prompt.
+2. Navigate to the directory where you want to save the project:
+   ```bash
+   cd /path/to/your/directory
